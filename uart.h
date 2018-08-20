@@ -2,7 +2,7 @@
  * uart.h
  *
  *  Created on: Nov 2, 2017
- *      Author: lemmo
+ *     
  */
 
 #ifndef UART_H_
