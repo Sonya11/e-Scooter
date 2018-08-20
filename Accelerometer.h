@@ -2,7 +2,7 @@
  * Accelerometer.h
  *
  *  Created on: Nov 5, 2017
- *      Author: ryan
+ *    
  */
 
 #ifndef ACCELEROMETER_H_
