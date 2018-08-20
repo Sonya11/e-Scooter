@@ -2,7 +2,7 @@
  * vars.h
  *
  *  Created on: Nov 5, 2017
- *      Author: ryan
+ *
  */
 
 #ifndef VARS_H_
