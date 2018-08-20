@@ -2,7 +2,7 @@
  * scooter.h
  *
  *  Created on: Oct 31, 2017
- *      Author: Lemmon
+ *    
  */
 
 #ifndef SCOOTER_H_
