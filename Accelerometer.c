@@ -2,7 +2,7 @@
  * Accelerometer.c
  *
  *  Created on: Nov 5, 2017
- *      Author: ryan
+ *     
  */
 
 #include "msp.h"
